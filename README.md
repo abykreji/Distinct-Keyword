@@ -1,2 +1,2 @@
-# Distinct-Keyword
+# Distinct Keyword
 > Distint Keyword Exercises
